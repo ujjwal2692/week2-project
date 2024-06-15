@@ -1,2 +1,3 @@
 hello!
-this is merging the conflict file
+this is merging the conflict file CHANGES DONE IN THIS LINE FOR MERGE CONFLICT 
+ 
